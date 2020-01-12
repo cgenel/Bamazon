@@ -2,7 +2,7 @@
 > This is my first attempt at using Node, Inquirer & SQL to create an Amazon-like storefront.
 
 ## Table of Contents
-* A simple CLI app utilizing Node.js and MySQL
+* A simple CLI app utilizing inquirer Node.js and MySQL
 - bamazonCustomer.js
 - schema.sql
 - package-lock.json
