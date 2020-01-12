@@ -1,10 +1,11 @@
 # Bamazon
-> This is my first attempt at using Node & SQL to create an Amazon-like storefront.
+> This is my first attempt at using Node, Inquirer & SQL to create an Amazon-like storefront.
 
 ## Table of Contents
 * A simple CLI app utilizing Node.js and MySQL
 - bamazonCustomer.js
 - schema.sql
+- package-lock.json
 - screenshot of the functioning app with both a successful purchase and an item out of stock
 
 ## General Info
